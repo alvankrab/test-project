@@ -1,0 +1,15 @@
+e:\test-project\bin\Debug\net8.0\test-project.exe
+e:\test-project\bin\Debug\net8.0\test-project.deps.json
+e:\test-project\bin\Debug\net8.0\test-project.runtimeconfig.json
+e:\test-project\bin\Debug\net8.0\test-project.dll
+e:\test-project\bin\Debug\net8.0\test-project.pdb
+e:\test-project\obj\Debug\net8.0\test-project.GeneratedMSBuildEditorConfig.editorconfig
+e:\test-project\obj\Debug\net8.0\test-project.AssemblyInfoInputs.cache
+e:\test-project\obj\Debug\net8.0\test-project.AssemblyInfo.cs
+e:\test-project\obj\Debug\net8.0\test-project.csproj.CoreCompileInputs.cache
+e:\test-project\obj\Debug\net8.0\test-project.sourcelink.json
+e:\test-project\obj\Debug\net8.0\test-project.dll
+e:\test-project\obj\Debug\net8.0\refint\test-project.dll
+e:\test-project\obj\Debug\net8.0\test-project.pdb
+e:\test-project\obj\Debug\net8.0\test-project.genruntimeconfig.cache
+e:\test-project\obj\Debug\net8.0\ref\test-project.dll
